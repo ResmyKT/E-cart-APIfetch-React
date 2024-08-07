@@ -1,0 +1,17 @@
+.card{
+    display:flex;
+    margin: 31px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: justify;
+    justify-content: baseline;
+}
+img{
+    height:200px
+}
+    img:hover{
+        scale:1.05
+    }
+    img:last-child{
+        text-align: center;
+    }
